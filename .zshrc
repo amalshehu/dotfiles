@@ -1,0 +1,1 @@
+/home/amalshehu/.zshrc
